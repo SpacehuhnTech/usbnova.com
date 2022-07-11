@@ -8,28 +8,27 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Drag and drop scripts onto a drive. Switch between attack and setup mode. 
+        Configure all the important settings from a json file.
+        ...
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Mass Storage Support',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Enable mass storage to have it act as a USB drive for exfiltrating data.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Standard BadUSB Script',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Easy to learn scripting language for writing payloads. Feature rich and compatible to Ducky Script.
       </>
     ),
   },
