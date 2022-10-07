@@ -19,7 +19,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             style={{ margin: '0 .5rem' }}
-            to="https://spacehuhn.com/collections/all-products">
+            to="https://spacehuhn.store/products/usb-nova">
             Buy Now
           </Link>
           <Link

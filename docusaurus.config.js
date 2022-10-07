@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'USB Nova',
-  tagline: 'Something Something BadUSBs',
+  tagline: 'Practical USB Hacking',
   url: 'https://usbnova.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -70,15 +70,15 @@ const config = {
             label: 'Docs',
           },
           {
-            href: 'https://spacehuhn.com/products/all-products',
+            href: 'https://spacehuhn.store/products/usb-nova',
             label: 'Buy',
             position: 'left',
           },
-          {
+          /*{
             href: 'https://learnbadusb.com',
             label: 'Online Course',
             position: 'left',
-          },
+          },*/
         ],
       },
       /*footer: {

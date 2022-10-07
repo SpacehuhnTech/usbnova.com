@@ -5,30 +5,29 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/1.svg').default,
     description: (
       <>
-        Drag and drop scripts onto a drive. Switch between attack and setup mode. 
-        Configure all the important settings from a json file.
-        ...
+        Drag and drop scripts, easily switch between attack and setup mode, 
+        or quickly adjust USB VID & PID. 
       </>
     ),
   },
   {
     title: 'Mass Storage Support',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/2.svg').default,
     description: (
       <>
-        Enable mass storage to have it act as a USB drive for exfiltrating data.
+        Exfiltrate data by enabling the USB drive feature in attack mode.
       </>
     ),
   },
   {
-    title: 'Standard BadUSB Script',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'BadUSB Script',
+    Svg: require('@site/static/img/3.svg').default,
     description: (
       <>
-        Easy to learn scripting language for writing payloads. Feature rich and compatible to Ducky Script.
+        Create payloads with an easy scripting language that's feature rich and compatible to Ducky Script.
       </>
     ),
   },
