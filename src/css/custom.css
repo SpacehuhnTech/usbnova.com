@@ -48,3 +48,7 @@ body {
 .hero__subtitle {
   color: #fff;
 }
+
+img {
+  border-radius: .5rem;
+}

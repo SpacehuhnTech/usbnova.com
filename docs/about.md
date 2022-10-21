@@ -21,6 +21,7 @@ USB Nova is a cute little USB "drive" that acts as a keyboard, much like the USB
 What makes it special is that it's:
 * Open-Source  
 * Affordable  
+* Handmade in Germany 🇩🇪🇪🇺
 * Very Easy to Use  
 * Supports USB Mass Storage  
 * Has a RGB LED  
@@ -28,7 +29,7 @@ What makes it special is that it's:
 * Has tons of keyboard layouts  
 * Comes in a nice blue case  
 
-<img src='/img/picture.jpg' width='500px' style={{borderRadius:'.5rem'}} alt='USB Nova Picture' />
+<img src='/img/picture.jpg' width='500px' alt='USB Nova Picture' />
 <br />
 
 <a href='https://spacehuhn.store/products/usb-nova' target='_blank'>
@@ -38,12 +39,3 @@ What makes it special is that it's:
 <a href='https://ko-fi.com/G2G75FA4V' target='_blank'>
   <img height='36' style={{border:0,height:'36px'}} src='/img/kofi_button.png' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 </a>
-
-## Usage
-
-// GIF
-
-1. Put in setup mode
-2. Edit/Drop your BadUSB script on the drive
-3. Toggle the switch to run the script and enable attack mode
-
