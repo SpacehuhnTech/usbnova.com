@@ -4,8 +4,12 @@ description: 'How BadUSB a script looks like.'
 sidebar_position: 10
 ---
 
-:::info
-WiFi Duck's script language is compatible with Ducky Script. However, some functions and keys were added or modified.
+:::caution
+Some USB Nova specific features are not documented yet.
+:::
+
+:::note
+USB Nova's script language is compatible with Ducky Script. However, some functions and keys were added or modified.
 You can find a great Ducky Script quick reference [at docs.hak5.org](https://docs.hak5.org/usb-rubber-ducky-1/the-ducky-script-language/ducky-script-quick-reference).
 :::
 

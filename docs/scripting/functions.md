@@ -1,8 +1,12 @@
 ---
 title: 'Functions'
-description: 'All available WiFi Duck Script functions.'
+description: 'All available script functions.'
 sidebar_position: 20
 ---
+
+:::caution
+Some USB Nova specific features are not documented yet.
+:::
 
 | Command | Example | Description |
 | ------- | ------- | ----------- |
@@ -18,21 +22,73 @@ sidebar_position: 20
 ## Available Keyboard Layouts
 
 Currently supported keyboard layouts:  
-- [DE](https://github.com/spacehuhn/WiFiDuck/blob/master/atmega_duck/locale_de.h)
-- [GB](https://github.com/spacehuhn/WiFiDuck/blob/master/atmega_duck/locale_gb.h)
-- [US](https://github.com/spacehuhn/WiFiDuck/blob/master/atmega_duck/locale_us.h)
-- [ES](https://github.com/spacehuhn/WiFiDuck/blob/master/atmega_duck/locale_es.h)
-- [DK](https://github.com/spacehuhn/WiFiDuck/blob/master/atmega_duck/locale_dk.h)
-- [RU](https://github.com/spacehuhn/WiFiDuck/blob/master/atmega_duck/locale_ru.h)
-- [FR](https://github.com/spacehuhn/WiFiDuck/blob/master/atmega_duck/locale_fr.h)
-- [BE](https://github.com/spacehuhn/WiFiDuck/blob/master/atmega_duck/locale_be.h)
-- [PT](https://github.com/spacehuhn/WiFiDuck/blob/master/atmega_duck/locale_pt.h)
-- [IT](https://github.com/spacehuhn/WiFiDuck/blob/master/atmega_duck/locale_it.h)
-- [SK](https://github.com/spacehuhn/WiFiDuck/blob/master/atmega_duck/locale_sk.h)
-- [CZ](https://github.com/spacehuhn/WiFiDuck/blob/master/atmega_duck/locale_cz.h)
-- [SI](https://github.com/spacehuhn/WiFiDuck/blob/master/atmega_duck/locale_si.h)
-- [BG](https://github.com/spacehuhn/WiFiDuck/blob/master/atmega_duck/locale_bg.h)
-- [CA-FR](https://github.com/spacehuhn/WiFiDuck/blob/master/atmega_duck/locale_cafr.h)
-- [CH-DE](https://github.com/spacehuhn/WiFiDuck/blob/master/atmega_duck/locale_chde.h)
-- [CH-FR](https://github.com/spacehuhn/WiFiDuck/blob/master/atmega_duck/locale_chfr.h)
-- [HU](https://github.com/spacehuhn/WiFiDuck/blob/master/atmega_duck/locale_hu.h)
+* BE
+* BG
+* CA-CM
+* CA-FR
+* CH-DE
+* CH-FR
+* CZ
+* DE
+* DK
+* EE
+* ES-LA
+* ES
+* FI
+* FR
+* GB
+* GR
+* HU
+* IE
+* IN
+* IS
+* IT
+* LT
+* LV
+* NL
+* NO
+* PL
+* PT-BR
+* PT
+* RO
+* RU
+* SE
+* SI
+* SK
+* TR
+* UA
+* US
+* BE_MAC
+* BG_MAC
+* CA_FR_MAC
+* CH_DE_MAC
+* CH_FR_MAC
+* CZ_MAC
+* DE_MAC
+* DK_MAC
+* EE_MAC
+* ES_MAC
+* ES_LA_MAC
+* FI_MAC
+* FR_MAC
+* GB_MAC
+* GR_MAC
+* HU_MAC
+* IN_MAC
+* IS_MAC
+* IT_MAC
+* LT_MAC
+* LV_MAC
+* NL_MAC
+* NO_MAC
+* PL_MAC
+* PT_MAC
+* PT_BR_MAC
+* RO_MAC
+* RU_MAC
+* SE_MAC
+* SI_MAC
+* SK_MAC
+* TR_MAC
+* UA_MAC
+* US_MAC

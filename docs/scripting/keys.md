@@ -1,8 +1,12 @@
 ---
 title: 'Keys'
-description: 'All keys available on the WiFi Duck'
+description: 'All available keys'
 sidebar_position: 30
 ---
+
+:::caution
+Some USB Nova specific features are not documented yet.
+:::
 
 ## Standard Keys
 
