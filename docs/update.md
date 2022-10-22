@@ -6,7 +6,7 @@ sidebar_position: 30
 
 import Button from '@mui/material/Button';
 
-:::info
+:::caution
 The GitHub repository and firmware files aren't public yet. They'll be released when the USB Nova officially launches.
 :::
 
