@@ -4,10 +4,6 @@ description: 'BadUSBs explained'
 sidebar_position: 20
 ---
 
-:::info
-This page is based on a Blog post I've made. Check it out here: https://blog.spacehuhn.com/how-bad-usbs-work
-:::
-
 ## What is a BadUSB
 
 ![USB Nova plugged into a laptop](/img/pluggedin.jpg)
@@ -52,3 +48,7 @@ I try to make cyber security more approachable. My goal with the USB Nova is to 
 If this sparked your interest in BadUSBs and you want to know more, I got you covered! Visit [learnbadusb.com](https://learnbadusb.com) to get access to my online course about BadUSBs!
 
 It teaches you everything you have to know about BadUSBs - including how to build one yourself! It's beginner-friendly and a great way to get started with ethical hacking.
+
+:::note
+This page is based on a Blog post I've written. You can check it out here: https://blog.spacehuhn.com/how-bad-usbs-work
+:::
