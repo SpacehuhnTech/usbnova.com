@@ -6,6 +6,10 @@ sidebar_position: 30
 
 import Button from '@mui/material/Button';
 
+:::info
+The GitHub repository and firmware files aren't public yet. They'll be released when the USB Nova officially launches.
+:::
+
 <Button variant='contained' href='https://github.com/SpacehuhnTech/USBNova/releases'>Download Firmware</Button>
 
 <br />
