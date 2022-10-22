@@ -6,7 +6,6 @@ sidebar_position: 10
 
 import ThemedImage from '@theme/ThemedImage';
 import useBaseUrl from '@docusaurus/useBaseUrl';
-import Button from '@mui/material/Button';
 
 :::caution
 USB Nova is currently in development. [Subscribe to our email notifications](https://signup.usbnova.com) for product updates.
