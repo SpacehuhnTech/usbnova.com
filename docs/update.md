@@ -1,6 +1,6 @@
 ---
 title: 'Firmware Update'
-description: 'How to update your USB Nova'
+description: 'How to update your USB Nova firmware to the latest version. A tutorial.'
 sidebar_position: 30
 ---
 

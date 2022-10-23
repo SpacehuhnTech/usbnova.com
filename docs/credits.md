@@ -1,6 +1,6 @@
 ---
 title: 'Credits'
-description: 'Thanks goes to...'
+description: 'Thanks to all the amazing open-source projects that made USB Nova possible.'
 sidebar_position: 90
 ---
 

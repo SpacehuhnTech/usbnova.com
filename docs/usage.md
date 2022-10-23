@@ -1,6 +1,6 @@
 ---
 title: 'Usage'
-description: 'How to use USB Nova'
+description: 'Everything you need to know to get started using your USB Nova.'
 sidebar_position: 15
 ---
 

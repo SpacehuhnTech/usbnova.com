@@ -41,7 +41,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-    >
+      description="An easy-to-use BadUSB for learning and testing with USB mass storage, support for multiple keyboard layouts, and customizable device IDs.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

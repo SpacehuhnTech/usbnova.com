@@ -1,6 +1,6 @@
 ---
 title: 'Preferences'
-description: 'USB Nova Preferences Explained'
+description: 'USB Nova Preferences/Settings explained in detail'
 sidebar_position: 40
 ---
 

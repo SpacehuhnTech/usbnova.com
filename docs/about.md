@@ -1,6 +1,6 @@
 ---
 title: 'About'
-description: 'What USB Nova is'
+description: 'USB Nova is a cute little USB "drive" that acts as a keyboard, much like the USB Rubber Ducky, WiFi Duck, and other BadUSBs.'
 sidebar_position: 10
 ---
 
