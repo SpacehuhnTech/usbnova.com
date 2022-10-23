@@ -132,6 +132,12 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      metadata: [
+        { name: 'description', content: 'Easy to use BadUSB with USB mass storage, customizable USB IDs, and support for multiple keyboard layouts.' },
+        { name: 'keywords', content: 'DuckyScript, Ducky, Script, BadUSB, Atsamd21, Arduino, Spacehuhn' },
+        { name: 'author', content: 'Spacehuhn' },
+      ],
+      image: '/img/picture.jpg',
     }),
 };
 
