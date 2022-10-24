@@ -1,6 +1,6 @@
 ---
 title: 'How it Works'
-description: 'A BadUSB can hack a computer in a matter of seconds, but how is that even possible? Let's explore this fascinating topic.'
+description: "A BadUSB can hack a computer in a matter of seconds, but how is that even possible? Let's explore this fascinating topic."
 sidebar_position: 20
 ---
 
