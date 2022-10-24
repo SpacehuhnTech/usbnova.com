@@ -23,34 +23,34 @@ The GitHub repository and firmware files aren't public yet. They'll be released 
 
 2. Remove the Case.
 
-![USB Nova Opening Case](/img/firmware/1.jpg)
+![USB Nova opening case](/img/firmware/1.jpg)
 
-![USB Nova Opening Case](/img/firmware/2.jpg)
+![USB Nova opening case](/img/firmware/2.jpg)
 
-![USB Nova Opening Case](/img/firmware/3.jpg)
+![USB Nova opening case](/img/firmware/3.jpg)
 
 3. Connect it to your computer.
 
-![](/img/firmware/4.jpg)
+![Connecting USB Nova to USB port](/img/firmware/4.jpg)
 
 4. Double press the small reset button. The LED should then turn green.
 
-![](/img/firmware/5.jpg)
+![Pressing reset button on USB Nova](/img/firmware/5.jpg)
 
 5. Download the latest .uf2 file from the [release page](https://github.com/SpacehuhnTech/USBNova/releases).
 
-![](/img/firmware/6.jpg)
+![Download firmware from GitHub](/img/firmware/6.jpg)
 
 6. Copy the downloaded uf2 file onto Nova drive. The Nova will update itself and reconnect.
 
-![](/img/firmware/7.jpg)
+![Pasting uf2 file onto USB Nova drive](/img/firmware/7.jpg)
 
 7. Put it back into its case
 
-![](/img/firmware/8.jpg)
+![USB Nova closing case](/img/firmware/8.jpg)
 
-![](/img/firmware/9.jpg)
+![USB Nova closing case](/img/firmware/9.jpg)
 
-![](/img/firmware/10.jpg)
+![USB Nova closing case](/img/firmware/10.jpg)
 
-![](/img/firmware/11.jpg)
+![USB Nova closing case](/img/firmware/11.jpg)
