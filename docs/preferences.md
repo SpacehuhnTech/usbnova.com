@@ -52,6 +52,11 @@ You can easily test if your file is valid with online tools like [jsonformatter]
 
 ## Settings Explained
 
+:::info
+Restart is required to apply changes!
+Some features only work on Windows (*). 
+:::
+
 | Setting | Default Value | Explanation |
 | ------- | ------------- | ----------- |
 | enable_msc | false | Enable USB mass storage (USB drive) in attack mode |
@@ -68,8 +73,8 @@ You can easily test if your file is valid with online tools like [jsonformatter]
 | attack_color | [128,0,0,0] | LED color for attack mode |
 | setup_color | [0,0,20,0] | LED color for setup mode |
 | idle_color | [0,30,0,0] | LED color for finished attack |
-| disable_capslock | true | Turn off capslock before starting attack (doesn't work on macOS) |
-| run_on_indicator | false | Start script when the user presses capslock, numlock, or another indicator key (doesn't work on macOS) |
+| disable_capslock | true | (*) Turn off capslock before starting attack |
+| run_on_indicator | false | (*) Start script when the user presses capslock, numlock, or another indicator key |
 | initial_delay | 1000 | Startup delay |
 
 :::note
