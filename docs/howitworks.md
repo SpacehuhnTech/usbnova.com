@@ -1,5 +1,5 @@
 ---
-title: 'How it Works'
+title: 'How it works'
 description: "A BadUSB can hack a computer in a matter of seconds, but how is that even possible? Let's explore this fascinating topic."
 sidebar_position: 20
 ---
