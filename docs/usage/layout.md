@@ -14,4 +14,4 @@ There are two simple ways to set the correct keyboard layout.
 * Use locale command at the beginning of your script. For example, `LOCALE DE` uses the German keyboard layout.
 * Or change it in the preferences.json file by editing the line `"default_layout": "US",` to whatever layout you'd like.
 
-![](/img/keyboard_layout.jpg)
+![Editing main.script or preferences.json to change keyboard layout](/img/keyboard_layout.jpg)

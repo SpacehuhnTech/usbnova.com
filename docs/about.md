@@ -24,16 +24,17 @@ USB Nova is currently in development. [Subscribe to our email notifications](htt
 <br />
 
 USB Nova is a cute little USB "drive" that acts as a keyboard, much like the USB Rubber Ducky, WiFi Duck, and other BadUSBs. 
-What makes it special is that it's:
-* Open-Source  
-* Affordable  
-* Handmade in Germany 🇩🇪🇪🇺
-* Very Easy to Use  
+What makes it special is that:
+* It's Open-Source  
+* You can drag and drop scripts  
+* Easily switch between attack and setup mode  
 * Supports USB Mass Storage  
-* Has a RGB LED  
-* Can change USB VID & PID (and other cool settings)  
-* Has tons of keyboard layouts  
-* Comes in a nice blue case  
+* Handmade in Germany 🇩🇪🇪🇺  
+* Supports a ton of [keyboard layouts](scripting/functions.md#available-keyboard-layouts)  
+* Is affordable  
+* Change USB VID & PID and [other cool settings](/docs/preferences) effortlessly   
+* Has an RGB LED  
+* Comes in a variety of awesome-looking cases  
 
 <a href='https://spacehuhn.store/products/usb-nova' target='_blank'>
   <img height='36' style={{border:0,height:'36px'}} src='/img/buy.png' border='0' alt='Buy Now' />
