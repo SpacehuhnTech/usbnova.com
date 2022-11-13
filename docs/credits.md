@@ -1,7 +1,7 @@
 ---
 title: 'Credits'
 description: 'Thanks to all the amazing open-source projects that made USB Nova possible.'
-sidebar_position: 90
+sidebar_position: 100
 ---
 
 Thanks to all the fantastic open-source projects that made USB Nova possible:

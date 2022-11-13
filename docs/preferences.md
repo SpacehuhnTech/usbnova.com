@@ -1,7 +1,7 @@
 ---
 title: 'Preferences'
 description: 'USB Nova Preferences/Settings explained in detail'
-sidebar_position: 40
+sidebar_position: 30
 ---
 
 ## Preferences.json
