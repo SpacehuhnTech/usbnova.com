@@ -4,17 +4,13 @@ description: 'How BadUSB a script looks like.'
 sidebar_position: 10
 ---
 
-:::caution
-Some USB Nova specific features are not documented yet.
-:::
-
 :::note
-USB Nova's script language is compatible with Ducky Script. However, some functions and keys were added or modified.
+USB Nova's script language is compatible with Ducky Script. However, some functions and keys were added or expanded.
 You can find a great Ducky Script quick reference [at docs.hak5.org](https://docs.hak5.org/usb-rubber-ducky-1/the-ducky-script-language/ducky-script-quick-reference).
 :::
 
 ## Basic rules:
-* A single space separates keys
+* A single space separates the keys
 * All keys as part of the same line get pressed and released simultaneously
 * To write text, use the `STRING` function
 * Upper and lower case matters!

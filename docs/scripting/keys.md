@@ -4,10 +4,6 @@ description: 'All available keys'
 sidebar_position: 30
 ---
 
-:::caution
-Some USB Nova specific features are not documented yet.
-:::
-
 ## Standard Keys
 
 | Key |
@@ -45,7 +41,7 @@ Some USB Nova specific features are not documented yet.
 | `END` |
 | `ESC` or `ESCAPE` |
 | `SPACE` |
-| `PAUSE or BREAK` |
+| `PAUSE` or `BREAK` |
 | `CAPSLOCK` |
 | `NUMLOCK` |
 | `PRINTSCREEN` |
