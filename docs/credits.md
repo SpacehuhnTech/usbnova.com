@@ -28,4 +28,6 @@ For the case:
 * [OpenSCAD](https://openscad.org/)
 * [PrusaSlicer](https://github.com/prusa3d/PrusaSlicer)
 
+Also a shoutout to Hak5 for introducing Ducky Script and being such an inspiration for this and many other amazing hacking tools!
+
 **Thank You 🙏**
