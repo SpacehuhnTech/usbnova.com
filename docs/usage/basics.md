@@ -13,7 +13,7 @@ You don't need to compile it or anything like that.
 2. Connect USB Nova to your Computer
 <img src='/img/pluggedin.jpg' width='300px' alt='USB Nova plugged into Laptop' />
 
-3. Edit `main.script` on the drive using a text editor
+3. Edit `main_script.txt` on the drive using a text editor
 <img src='/img/drive.jpg' alt='USB Nova plugged into Laptop' />
 
 4. To run your script enable attack mode

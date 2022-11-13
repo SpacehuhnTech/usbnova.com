@@ -17,6 +17,7 @@ You can easily test if your file is valid with online tools like [jsonformatter]
 {
   "enable_msc": false,
   "enable_led": true,
+  "enable_hid": true,
   "hid_vid": "16D0",
   "hid_pid": "11A4",
   "hid_rev": "0100",
@@ -25,7 +26,7 @@ You can easily test if your file is valid with online tools like [jsonformatter]
   "msc_rev": "1.0",
   "default_layout": "US",
   "default_delay": 5,
-  "main_script": "main.script",
+  "main_script": "main_script.txt",
   "attack_color": [
     128,
     0,
@@ -61,6 +62,7 @@ Some features only work on Windows (*).
 | ------- | ------------- | ----------- |
 | enable_msc | false | Enable USB mass storage (USB drive) in attack mode |
 | enable_led | true | Enable RGB LED |
+| enable_hid | true | Enable HID in setup mode |
 | hid_vid | 16D0 | USB Keyboard Vendor ID |
 | hid_pid | 11A4 | USB Keyboard Product ID |
 | hid_rev | 0100 | USB Keyboard Product Revision |
@@ -69,7 +71,7 @@ Some features only work on Windows (*).
 | msc_rev | 1.0 | USB Mass Storage Product Revision |
 | default_layout | US | Default Keyboard Layout ([see all available layouts](scripting/functions.md#available-keyboard-layouts)) |
 | default_delay | 5 | Default delay between each line |
-| main_script | main.script | Name of your BadUSB script |
+| main_script | main_script.txt | Name of your BadUSB script |
 | attack_color | [128,0,0,0] | LED color for attack mode |
 | setup_color | [0,0,20,0] | LED color for setup mode |
 | idle_color | [0,30,0,0] | LED color for finished attack |
