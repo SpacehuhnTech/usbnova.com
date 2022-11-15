@@ -34,6 +34,14 @@ But I haven't forgotten about BadUSBs! In fact, I made my [very first online cou
 And now I'm continuing on the road by releasing the USB Nova - the easiest-to-use BadUSB yet; with good documentation, a colorful and user-friendly design, and cool features like the ability to act as a mass storage device. 
 It makes it easy and fun to start exploring hacking while still being able to use it as a professional pentesting tool. 
 
+## Future
+
+I made the USB Nova and other hacking tools an Open-Source alternative to expensive proprietary solutions. It's designed to be easier to use, hackable, and encourage learning. I believe I have achieved that goal. 
+And I hope there will be enough demand for this product to allow for a USB-C edition and other upgrades.  
+Of course, I'd like to add features like OS fingerprinting and a more sophisticated scripting language to accommodate complex use cases. However, I'm just a student doing these projects in my free time. I cannot possibly compete with a million-dollar company like Hak5. 
+Instead, I would like to focus on education and developing new tools. 
+So please keep this in mind when you send me feature requests 😊.
+
 <a href='https://ko-fi.com/G2G75FA4V' target='_blank'>
   <img height='36' style={{border:0,height:'36px'}} src='/img/kofi_button.png' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 </a>
