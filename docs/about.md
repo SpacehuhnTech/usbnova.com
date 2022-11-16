@@ -29,9 +29,10 @@ USB Nova is a cute little USB "drive" that acts as a keyboard, much like the USB
 What makes it special is that:
 * You can drag and drop scripts (no SD card or WiFi connection required) 
 * Easily switch between attack and setup mode  
-* Supports USB Mass Storage  
-* Adds a lot of cool [scripting functions](scripting/functions)
+* Supports USB Mass Storage 
+* Has cool new [scripting functions](scripting/functions)
 * Supports a ton of [keyboard layouts](scripting/functions.md#available-keyboard-layouts)  
+* Can act as a USB mouse
 * It's affordable  
 * Change USB VID & PID and [other cool settings](preferences) effortlessly   
 * Has an RGB LED  
