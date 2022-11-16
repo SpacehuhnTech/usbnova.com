@@ -5,8 +5,8 @@ sidebar_position: 10
 ---
 
 :::note
-USB Nova's script language is compatible with Ducky Script. However, some functions and keys were added or expanded.
-You can find a great Ducky Script quick reference [at docs.hak5.org](https://docs.hak5.org/usb-rubber-ducky-1/the-ducky-script-language/ducky-script-quick-reference).
+USB Nova's script language is compatible with Ducky Script (1.0). However, some functions and keys were added or expanded.
+You can find a great Ducky Script quick reference at [docs.hak5.org](https://docs.hak5.org/hak5-usb-rubber-ducky/ducky-script-quick-reference).
 :::
 
 ## Basic rules:

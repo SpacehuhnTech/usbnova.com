@@ -20,7 +20,7 @@ sidebar_position: 30
 | `CTRL` or `CONTROL` |
 | `SHIFT` |
 | `ALT` |
-| `WINDOWS` or `GUI` |
+| `GUI` or `WINDOWS` or `COMMAND` |
 
 ## Other Keys
 
