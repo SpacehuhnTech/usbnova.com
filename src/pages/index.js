@@ -13,9 +13,9 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         {/*<h1 className="hero__title">{siteConfig.title}</h1>*/}
-        <img src='/img/nova2-small.png' alt='USB Nova' height='100px' />
+        <img src='/img/home/nova2-small.png' alt='USB Nova' height='100px' />
         <br />
-        <img src='/img/feature_logo.png' alt='USB Nova Logo' height='80px' />
+        <img src='/img/home/feature_logo.png' alt='USB Nova Logo' height='80px' />
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link

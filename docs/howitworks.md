@@ -6,7 +6,7 @@ sidebar_position: 15
 
 ## What is a BadUSB
 
-![USB Nova plugged into a laptop](/img/pluggedin.jpg)
+![USB Nova plugged into a laptop](/img/howitworks/pluggedin.jpg)
 
 On the outside, a BadUSB is often indistinguishable from a regular flash drive or USB cable. But on the inside is a chip programmed to act as a USB keyboard, so it can open a terminal and run commands to hijack the computer in a matter of seconds. 
 
@@ -16,7 +16,7 @@ Keyboard input is trusted because it comes from humans, and humans have full acc
 
 ## Keystroke Injection Attack
 
-![Keystroke Injection Attack Visualized](/img/injection.jpg)
+![Keystroke Injection Attack Visualized](/img/howitworks/injection.jpg)
 
 BadUSBs are programmed to perform keystroke injection attacks by sending a sequence of keystrokes to the computer. The computer, however, thinks a human typed those and will handle them as such, even though the BadUSB injects them at incredible speeds (over 9000 characters per second).
 
@@ -24,7 +24,7 @@ Depending on the keystroke sequence sent, a BadUSB can install malware or exfilt
 
 ## Limitations
 
-![Fence](/img/limits.jpg)
+![Fence](/img/howitworks/limits.jpg)
 
 While BadUSBs can be very scary, they are not all-powerful. 
 
@@ -34,7 +34,7 @@ In most cases, it is also required that the target computer is already running a
 
 ## How the USB Nova works
 
-![USB Nova PCB](/img/pcb.jpg)
+![USB Nova PCB](/img/howitworks/pcb.jpg)
 
 The USB Nova hardware is based on the Adafruit QT Py. Its SAMD21 microcontroller is programmed using Arduino to act as a keyboard and interpret your BadUSB scripts.
 I added the mode selector switch, USB-A plug, RGB LED, and case to make it easier and more fun to use.
@@ -43,7 +43,7 @@ I try to make cyber security more approachable. My goal with the USB Nova is to 
 
 ## BadUSB Course
 
-![BadUSB Course Cover](/img/course.png)
+![BadUSB Course Cover](/img/howitworks/course.png)
 
 If this sparked your interest in BadUSBs and you want to know more, I got you covered! Visit [learnbadusb.com](https://learnbadusb.com) to get access to my online course about BadUSBs!
 

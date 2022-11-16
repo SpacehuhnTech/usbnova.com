@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Easy to Use',
-    Svg: require('@site/static/img/1.svg').default,
+    Svg: require('@site/static/img/home/1.svg').default,
     description: (
       <>
         Drag and drop scripts, easily switch between attack and setup mode, 
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Mass Storage Support',
-    Svg: require('@site/static/img/2.svg').default,
+    Svg: require('@site/static/img/home/2.svg').default,
     description: (
       <>
         Exfiltrate data by enabling the USB drive feature in attack mode.
@@ -24,7 +24,7 @@ const FeatureList = [
   },
   {
     title: 'BadUSB Script',
-    Svg: require('@site/static/img/3.svg').default,
+    Svg: require('@site/static/img/home/3.svg').default,
     description: (
       <>
         Create payloads with an easy scripting language that's feature rich and compatible to Ducky Script.

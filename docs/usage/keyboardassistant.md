@@ -4,7 +4,7 @@ description: 'How to prevent the Keyboard Setup Assistant on macOS.'
 sidebar_position: 40
 ---
 
-![Screenshot of Keyboard Setup Assistant on macOS](/img/assistant.jpg)
+![Screenshot of Keyboard Setup Assistant on macOS](/img/usage/assistant.jpg)
 
 The keyboard setup assistant can break your attack flow. To prevent that, you have to make the BadUSB appear as an Apple keyboard.
 
