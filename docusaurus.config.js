@@ -136,7 +136,7 @@ const config = {
         { name: 'keywords', content: 'DuckyScript, Ducky, Script, BadUSB, Atsamd21, Arduino, Spacehuhn' },
         { name: 'author', content: 'Spacehuhn' },
       ],
-      image: '/img/picture.jpg',
+      image: '/img/about/picture.jpg',
     }),
 };
 

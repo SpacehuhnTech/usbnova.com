@@ -43,5 +43,5 @@ Instead, I would like to focus on education and developing new tools.
 So please keep this in mind when you send me feature requests 😊.
 
 <a href='https://ko-fi.com/G2G75FA4V' target='_blank'>
-  <img height='36' style={{border:0,height:'36px'}} src='/img/kofi_button.png' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+  <img height='36' style={{border:0,height:'36px'}} src='/img/about/kofi_button.png' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 </a>
