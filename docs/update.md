@@ -15,7 +15,7 @@ import Button from '@mui/material/Button';
 
 1. Put your USB Nova in setup mode using the switch on the side.
 
-<img src='/img/setup.png' width='300px' alt='USB Nova Setup Mode' />
+<img src='/img/usage/setup.png' width='300px' alt='USB Nova Setup Mode' />
 
 2. Remove the Case.
 
@@ -40,6 +40,14 @@ import Button from '@mui/material/Button';
 6. Copy the downloaded uf2 file onto Nova drive. The Nova will update itself and reconnect.
 
 ![Pasting uf2 file onto USB Nova drive](/img/firmware/7.jpg)
+
+:::tip
+If you get "operation can’t be completed unexpected error 100093" on macOS, open a terminal and use this command to copy the uf2 file onto the drive:
+```
+cp USBNova.uf2 /Volumes/NOVA
+```
+(Make sure to use the correct path to the downloaded uf2 file)
+:::
 
 7. Put it back into its case
 
