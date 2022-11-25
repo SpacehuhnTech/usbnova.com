@@ -13,8 +13,13 @@ When you edit the JSON file, make sure it stays correctly formatted. Otherwise t
 You can easily test if your file is valid with online tools like [jsonformatter](https://jsonformatter.org/).
 :::
 
+:::info
+If you run into problems, delete preferences.json and edit the new file that gets created after plugging the USB Nova back in.
+:::
+
 ```json
 {
+  "$schema": "https://raw.githubusercontent.com/SpacehuhnTech/USBNova/main/schema.json",
   "enable_msc": false,
   "enable_led": true,
   "enable_hid": true,
