@@ -82,15 +82,15 @@ the lazy dog
 
 ## Large Strings
 
-For longer texts, use `LSTRING_START` and `LSTRING_STOP`. 
+For longer texts, use `LSTRING_BEGIN` and `LSTRING_END`. 
 Everything between those two commands, including linebreaks, gets typed out:
 
 ```
-LSTRING_START
+LSTRING_BEGIN
 The quick brown 
 fox jumps over 
 the lazy dog
-LSTRING_STOP
+LSTRING_END
 ```
 
 ## Loops
