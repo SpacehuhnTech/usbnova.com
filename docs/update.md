@@ -19,19 +19,25 @@ import Button from '@mui/material/Button';
 
 2. Remove the Case.
 
-![USB Nova opening case](/img/firmware/1.jpg)
+![Slide open top cover](/img/firmware/1.jpg)
 
-![USB Nova opening case](/img/firmware/2.jpg)
+![Slide open top cover](/img/firmware/2.jpg)
 
-![USB Nova opening case](/img/firmware/3.jpg)
+![Remove bottom cover](/img/firmware/3.jpg)
 
 3. Connect it to your computer.
 
-![Connecting USB Nova to USB port](/img/firmware/4.jpg)
+![Plug in USB Nova to USB port](/img/firmware/4.jpg)
 
 4. Double press the small reset button. The LED should then turn green.
 
 ![Pressing reset button on USB Nova](/img/firmware/5.jpg)
+
+For the mkII version (USB-C), you have to hold the boot button while pressing the reset button. Then the RPI-RP2 drive should  appear on your computer. (If it doesn't, try again)
+
+![](/img/firmware/5-1.jpg)
+![](/img/firmware/5-2.jpg)
+![](/img/firmware/5-3.jpg)
 
 5. Download the latest .uf2 file from the [release page](https://github.com/SpacehuhnTech/USBNova/releases).
 
@@ -51,10 +57,8 @@ cp USBNova.uf2 /Volumes/NOVA
 
 7. Put it back into its case
 
-![USB Nova closing case](/img/firmware/8.jpg)
+![Press Nova into bottom cover](/img/firmware/8.jpg)
 
-![USB Nova closing case](/img/firmware/9.jpg)
+![Press top cover onto bottom cover](/img/firmware/9.jpg)
 
-![USB Nova closing case](/img/firmware/10.jpg)
-
-![USB Nova closing case](/img/firmware/11.jpg)
+![Closed USB Nova](/img/firmware/11.jpg)
