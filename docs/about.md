@@ -28,20 +28,16 @@ What makes it special is that:
 * Supports USB Mass Storage 
 * Has cool new [scripting functions](scripting/functions)
 * Supports a ton of [keyboard layouts](scripting/functions.md#available-keyboard-layouts)  
-* Can act as a USB mouse
+* Can act as a USB mouse & boot keyboard  
 * It's affordable  
-* Change USB VID & PID and [other cool settings](preferences) effortlessly   
+* Change USB VID & PID, serial number and [other cool settings](preferences) effortlessly   
 * Has an RGB LED  
 * It's Open-Source  
 * Comes in a variety of awesome-looking cases  
-* It's handmade in Germany 🇩🇪🇪🇺  
+* With USB-A or USB-C plug
 
-<a href='https://spacehuhn.store/products/usb-nova' target='_blank'>
+<a href='https://spacehuhn.store/' target='_blank'>
   <img height='36' style={{border:0,height:'36px'}} src='/img/about/buy.png' border='0' alt='Buy Now' />
-</a>
-&nbsp;
-<a href='https://ko-fi.com/G2G75FA4V' target='_blank'>
-  <img height='36' style={{border:0,height:'36px'}} src='/img/about/kofi_button.png' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 </a>
 
 ## Specs
@@ -56,4 +52,18 @@ What makes it special is that:
 * RGB Neopixel LED
 * USB-A plug
 * Reset button
+* PETG case
+
+## Specs mkII (USB-C)
+
+<img src='/img/about/specs2.jpg' width='500px' alt='USB Nova without case' />
+<br />
+
+* Dimensions: 38mm x 16.5mm x 6.5mm
+* Dual-core 133 MHz 32-bit CPU
+* 16 MB SPI flash (15 MB accessible via USB)
+* 2 Position Mode Switch (Attack & Setup)
+* RGB Neopixel LED
+* USB-C plug
+* Reset & boot button
 * PETG case
