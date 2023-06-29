@@ -33,12 +33,6 @@ import Button from '@mui/material/Button';
 
 ![Pressing reset button on USB Nova](/img/firmware/5.jpg)
 
-For the mkII version (USB-C), you have to hold the boot button while pressing the reset button. Then the RPI-RP2 drive should  appear on your computer. (If it doesn't, try again)
-
-![](/img/firmware/5-1.jpg)
-![](/img/firmware/5-2.jpg)
-![](/img/firmware/5-3.jpg)
-
 5. Download the latest .uf2 file from the [release page](https://github.com/SpacehuhnTech/USBNova/releases).
 
 ![Download firmware from GitHub](/img/firmware/6.jpg)
