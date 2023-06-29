@@ -4,19 +4,79 @@ description: 'USB Nova Preferences/Settings explained in detail'
 sidebar_position: 30
 ---
 
-## Preferences.json
+Plug in your USB Nova in setup mode to edit the `preferences.json` file on the drive.  
+You can edit it with any text editor. Restart the USB Nova to apply your changes.
 
-Plug in your USB Nova in setup mode to edit the `preferences.json` file on the drive.
+If you run into problems, delete preferences.json and edit the new file that gets created after plugging the USB Nova back in.
 
 :::tip
 When you edit the JSON file, make sure it stays correctly formatted. Otherwise the USB Nova won't be able to apply your settings. 
-You can easily test if your file is valid with online tools like [jsonformatter](https://jsonformatter.org/).
+You can easily test if your file is valid with online tools like [jsonformatter](https://jsonformatter.org/).  
 :::
 
-:::info
-If you run into problems, delete preferences.json and edit the new file that gets created after plugging the USB Nova back in.
-:::
+## Preferences (Version 1.2)
 
+```json
+{
+  "$schema": "https://raw.githubusercontent.com/SpacehuhnTech/USBNova/main/schema.json",
+  "enable_msc": false,
+  "enable_led": true,
+  "enable_hid": true,
+  "vid": "16D0",
+  "pid": "11A4",
+  "version": "0100",
+  "serial": "1337",
+  "manufacturer": "SpacehuhnTech",
+  "product": "USB Nova",
+  "default_layout": "US",
+  "default_delay": 5,
+  "main_script": "main_script.txt",
+  "attack_color": [
+    128,
+    0,
+    0,
+    0
+  ],
+  "setup_color": [
+    0,
+    0,
+    20,
+    0
+  ],
+  "idle_color": [
+    0,
+    30,
+    0,
+    0
+  ],
+  "disable_capslock": true,
+  "run_on_indicator": false,
+  "initial_delay": 1000
+}
+```
+
+| Setting | Default Value | Explanation |
+| ------- | ------------- | ----------- |
+| enable_msc | false | Enable USB mass storage (USB drive) in attack mode |
+| enable_led | true | Enable RGB LED |
+| enable_hid | true | Enable HID in setup mode |
+| vid | 16D0 | USB Vendor ID |
+| pid | 11A4 | USB Product ID |
+| version | 0100 | USB Product Revision (0100 => 1.00) |
+| serial | 1337 | USB serial number descriptor |
+| manufacturer | SpacehuhnTech | USB manufacturer descriptor |
+| product | USB Nova | USB product descriptor |
+| default_layout | US | Default Keyboard Layout ([see all available layouts](scripting/functions.md#available-keyboard-layouts)) |
+| default_delay | 5 | Default delay between each line |
+| main_script | main_script.txt | Name of your BadUSB script |
+| attack_color | [128,0,0,0] | LED color for attack mode |
+| setup_color | [0,0,20,0] | LED color for setup mode |
+| idle_color | [0,30,0,0] | LED color for finished attack |
+| disable_capslock | true | (*) Turn off capslock before starting attack |
+| run_on_indicator | false | (*) Start script when the user presses capslock, numlock, or another indicator key |
+| initial_delay | 1000 | Startup delay |
+
+## Old Preferences (Version 1.1)
 ```json
 {
   "$schema": "https://raw.githubusercontent.com/SpacehuhnTech/USBNova/main/schema.json",
@@ -55,13 +115,6 @@ If you run into problems, delete preferences.json and edit the new file that get
   "initial_delay": 1000
 }
 ```
-
-## Settings Explained
-
-:::info
-Restart is required to apply changes!
-Some features only work on Windows (*). 
-:::
 
 | Setting | Default Value | Explanation |
 | ------- | ------------- | ----------- |
