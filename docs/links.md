@@ -10,6 +10,7 @@ sidebar_position: 90
 * Firmware: https://github.com/SpacehuhnTech/USBNova
 * Case Model: https://www.printables.com/model/316689-usb-nova-case
 * PCB Design Files: https://github.com/SpacehuhnTech/USB-Nova-PCB
+* PCB Design Files: https://github.com/SpacehuhnTech/USB-Nova-MkII-PCB
 
 ## BadUSB Related
 * Online Course: https://learnbadusb.com/
