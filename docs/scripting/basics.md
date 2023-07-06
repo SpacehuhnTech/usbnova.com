@@ -25,10 +25,11 @@ You can find a great Ducky Script quick reference at [docs.hak5.org](https://doc
 ```
 REM Hello World Example Script
 DEFAULTDELAY 200
-DELAY 2000
-GUI R
+DELAY 1000
+GUI r
 STRING notepad
 ENTER
+DELAY 1000
 STRING Hello World!
 ```
 
@@ -36,8 +37,9 @@ STRING Hello World!
 | ---- | ------------ |
 | `REM This is a comment` | Comment something. |
 | `DEFAULTDELAY 200` | Set the default delay between each line to 200 milliseconds. |
-| `DELAY 2000` | Wait 2 seconds. |
-| `GUI R` | Press the Windows key and the R key simultaneously to open the run window. |
+| `DELAY 1000` | Wait 1 seconds. |
+| `GUI r` | Press the Windows key and the R key simultaneously to open the run window. |
 | `STRING notepad` | Type "notepad". |
 | `ENTER` | Press enter key to launch the Windows Notepad application. |
+| `DELAY 1000` | Wait 1 seconds. |
 | `STRING Hello World!` | Type "Hello World!" into the newly opened notepad window. |
