@@ -15,6 +15,8 @@ sidebar_position: 20
 | `STRINGLN` | `STRINGLN Hello World!` | Like STRING but presses enter at the end |
 | `REPEAT` or `REPLAY` | `REPEAT 3` | Repeats the previous line n times |
 
+:point_down: **More functions below**
+
 ## Keyboard Layout
 
 :::tip
@@ -32,42 +34,43 @@ STRING Gänsefüßchen
 
 ### Available Keyboard Layouts
 
-| Region | Standard Layout | Mac Layout |
-| ------ | --------------- | --------- |
-| Belgium 🇧🇪 | `BE` | `BE_MAC` |
-| Bulgaria 🇧🇬 | `BG` | `BG_MAC` |
-| Canada 🇨🇦 | `CA-CM`, `CA-FR` | `CA-FR_MAC` |
-| Switzerland 🇨🇭 | `CH-DE`, `CH-FR` | `CH-DE_MAC`, `CH-FR_MAC` |
-| Czech Republic 🇨🇿 | `CZ` | `CZ_MAC` |
-| Germany 🇩🇪 | `DE` | `DE_MAC` |
-| Denmark 🇩🇰 | `DK` | `DK_MAC` |
-| Estonia 🇪🇪 | `EE` | `EE_MAC` |
-| Spain 🇪🇸 | `ES` | `ES_MAC` |
-| Latin-America 🌎 | `ES-LA` | `ES-LA_MAC` |
-| Finland 🇫🇮 | `FI` | `FI_MAC` |
-| France 🇫🇷 | `FR` | `FR_MAC` |
-| United Kingdom 🇬🇧 | `GB` | `GB_MAC` |
-| Greece 🇬🇷 | `GR` | `GR_MAC` |
-| Hungary 🇭🇺 | `HU` | `HU_MAC` |
-| Ireland 🇮🇪 | `IE` | - |
-| India 🇮🇳 | `IN` | `IN_MAC` |
-| Iceland 🇮🇸 | `IS` | `IS_MAC` |
-| Italy 🇮🇹 | `IT` | `IT_MAC` |
-| Latvia 🇱🇻 | `LT` | `LT_MAC` |
-| Lithuania 🇱🇹 | `LV` | `LV_MAC` |
-| Netherlands 🇳🇱 | `NL` | `NL_MAC` |
-| Norway 🇳🇴 | `NO` | `NO_MAC` |
-| Poland 🇵🇱 | `PL` | `PL_MAC` |
-| Brazil 🇧🇷 | `PT-BR` | `PT-BR_MAC` |
-| Portugal 🇵🇹 | `PT` | `PT_MAC` |
-| Romania 🇷🇴 | `RO` | `RO_MAC` |
-| Russia 🇷🇺 | `RU` | `RU_MAC` |
-| Sweden 🇸🇪 | `SE` | `SE_MAC` |
-| Slovenia 🇸🇮 | `SI` | `SI_MAC` |
-| Slovakia 🇸🇰 | `SK` | `SK_MAC` |
-| Turkey 🇹🇷 | `TR` | `TR_MAC` |
-| Ukraine 🇺🇦 | `UA` | `UA_MAC` |
-| United States 🇺🇸 | `US` | `US_MAC` |
+| Region | Standard Layout | Mac Layout | Note |
+| ------ | --------------- | ---------- | ---- |
+| Belgium 🇧🇪 | `BE` | `BE_MAC` | |
+| Bulgaria 🇧🇬 | `BG` | `BG_MAC` | |
+| Canada 🇨🇦 | `CA-CM`, `CA-FR` | `CA-FR_MAC` | |
+| Switzerland 🇨🇭 | `CH-DE`, `CH-FR` | `CH-DE_MAC`, `CH-FR_MAC` | |
+| Czech Republic 🇨🇿 | `CZ` | `CZ_MAC` | |
+| Germany 🇩🇪 | `DE` | `DE_MAC` | |
+| Denmark 🇩🇰 | `DK` | `DK_MAC` | |
+| Estonia 🇪🇪 | `EE` | `EE_MAC` | |
+| Spain 🇪🇸 | `ES` | `ES_MAC` | |
+| Latin-America 🌎 | `ES-LA` | `ES-LA_MAC` | |
+| Finland 🇫🇮 | `FI` | `FI_MAC` | |
+| France 🇫🇷 | `FR` | `FR_MAC` | |
+| United Kingdom 🇬🇧 | `GB` | `GB_MAC` | |
+| Greece 🇬🇷 | `GR` | `GR_MAC` | |
+| Croatia 🇭🇷 | `HR` | `HR_MAC` | Since v1.2.1 |
+| Hungary 🇭🇺 | `HU` | `HU_MAC` | |
+| Ireland 🇮🇪 | `IE` | - | |
+| India 🇮🇳 | `IN` | `IN_MAC` | |
+| Iceland 🇮🇸 | `IS` | `IS_MAC` | |
+| Italy 🇮🇹 | `IT` | `IT_MAC` | |
+| Latvia 🇱🇻 | `LT` | `LT_MAC` | |
+| Lithuania 🇱🇹 | `LV` | `LV_MAC` | |
+| Netherlands 🇳🇱 | `NL` | `NL_MAC` | |
+| Norway 🇳🇴 | `NO` | `NO_MAC` | |
+| Poland 🇵🇱 | `PL` | `PL_MAC` | |
+| Brazil 🇧🇷 | `PT-BR` | `PT-BR_MAC` | |
+| Portugal 🇵🇹 | `PT` | `PT_MAC` | |
+| Romania 🇷🇴 | `RO` | `RO_MAC` | |
+| Russia 🇷🇺 | `RU` | `RU_MAC` | |
+| Sweden 🇸🇪 | `SE` | `SE_MAC` | |
+| Slovenia 🇸🇮 | `SI` | `SI_MAC` | |
+| Slovakia 🇸🇰 | `SK` | `SK_MAC` | |
+| Turkey 🇹🇷 | `TR` | `TR_MAC` | |
+| Ukraine 🇺🇦 | `UA` | `UA_MAC` | |
+| United States 🇺🇸 | `US` | `US_MAC` | |
 
 ## Multi-Line Comments
 
