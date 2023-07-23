@@ -29,7 +29,7 @@ What makes it special is that:
 * Has cool new [scripting functions](scripting/functions)
 * Supports a ton of [keyboard layouts](scripting/functions.md#available-keyboard-layouts)  
 * Can act as a USB mouse & boot keyboard  
-* It's affordable  
+* It's [DIY-able](diy)
 * Change USB VID & PID, serial number and [other cool settings](preferences) effortlessly   
 * Has an RGB LED  
 * It's Open-Source  

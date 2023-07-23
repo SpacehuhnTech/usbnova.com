@@ -6,6 +6,10 @@ sidebar_position: 45
 
 import Button from '@mui/material/Button';
 
+:::note
+The USB Nova MKII is based on the RP2040 microcontroller. Therefore, it uses a different firmware than the USB Nova MKI and has a slightly different update process.
+:::
+
 <Button variant='contained' href='https://github.com/SpacehuhnTech/USBNova/releases'>Download Firmware</Button>
 
 <br />
