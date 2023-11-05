@@ -6,11 +6,11 @@ sidebar_position: 90
 
 ## USB Nova
 * YouTube video: https://www.youtube.com/watch?v=Jamh3rhmsHY
-* Product: https://spacehuhn.store/products/usb-nova
+* Product(s): https://spacehuhn.store/collections/usb-nova
 * Firmware: https://github.com/SpacehuhnTech/USBNova
 * Case Model: https://www.printables.com/model/316689-usb-nova-case
 * PCB Design Files: https://github.com/SpacehuhnTech/USB-Nova-PCB
-* PCB Design Files: https://github.com/SpacehuhnTech/USB-Nova-MkII-PCB
+* PCB Design Files mkII: https://github.com/SpacehuhnTech/USB-Nova-MkII-PCB
 
 ## BadUSB Related
 * Online Course: https://learnbadusb.com/

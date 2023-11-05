@@ -1,10 +1,14 @@
 ---
 title: 'Firmware Update'
 description: 'How to update your USB Nova firmware to the latest version. A tutorial.'
-sidebar_position: 40
+sidebar_position: 41
 ---
 
 import Button from '@mui/material/Button';
+
+:::caution
+If you're using the USB Nova mkII (based on the RP2040 with 15MB), follow the [mkII update guide](updatemkii).
+:::
 
 <Button variant='contained' href='https://github.com/SpacehuhnTech/USBNova/releases'>Download Firmware</Button>
 

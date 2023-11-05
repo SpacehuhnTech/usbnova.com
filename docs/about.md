@@ -40,7 +40,35 @@ What makes it special is that:
   <img height='36' style={{border:0,height:'36px'}} src='/img/about/buy.png' border='0' alt='Buy Now' />
 </a>
 
-## Specs
+## Specs USB Nova mkII (USB-A)
+
+<img src='/img/about/specs3.jpg' width='500px' alt='USB Nova mkII (USB-A) without case' />
+<br />
+
+* Dimensions: 46mm x 17.5mm x 7.7mm
+* Dual-core 133 MHz 32-bit CPU
+* 16 MB SPI flash (15 MB accessible via USB)
+* 2 Position Mode Switch (Attack & Setup)
+* RGB Neopixel LED
+* USB-A plug
+* Reset & boot button
+* Optional PETG case in 6 different colors
+
+## Specs USB Nova mkII (USB-C)
+
+<img src='/img/about/specs2.jpg' width='500px' alt='USB Nova mkII (USB-c) without case' />
+<br />
+
+* Dimensions: 38mm x 16.5mm x 6.5mm
+* Dual-core 133 MHz 32-bit CPU
+* 16 MB SPI flash (15 MB accessible via USB)
+* 2 Position Mode Switch (Attack & Setup)
+* RGB Neopixel LED
+* USB-C plug
+* Reset & boot button
+* Optional PETG case in 6 different colors
+
+## Specs USB Nova (discontinued)
 
 <img src='/img/about/specs.jpg' width='500px' alt='USB Nova without case' />
 <br />
@@ -52,18 +80,4 @@ What makes it special is that:
 * RGB Neopixel LED
 * USB-A plug
 * Reset button
-* PETG case
-
-## Specs mkII (USB-C)
-
-<img src='/img/about/specs2.jpg' width='500px' alt='USB Nova without case' />
-<br />
-
-* Dimensions: 38mm x 16.5mm x 6.5mm
-* Dual-core 133 MHz 32-bit CPU
-* 16 MB SPI flash (15 MB accessible via USB)
-* 2 Position Mode Switch (Attack & Setup)
-* RGB Neopixel LED
-* USB-C plug
-* Reset & boot button
-* PETG case
+* Optional PETG case

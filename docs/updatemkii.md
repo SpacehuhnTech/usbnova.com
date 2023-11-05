@@ -1,13 +1,13 @@
 ---
-title: 'Firmware Update MKII (USB-C)'
+title: 'Firmware Update mkII'
 description: 'How to update your USB Nova firmware to the latest version. A tutorial.'
-sidebar_position: 45
+sidebar_position: 40
 ---
 
 import Button from '@mui/material/Button';
 
 :::note
-The USB Nova MKII is based on the RP2040 microcontroller. Therefore, it uses a different firmware than the USB Nova MKI and has a slightly different update process.
+The USB Nova mkII is based on the RP2040 microcontroller. Therefore, it uses a different firmware than the USB Nova mkI and has a slightly different update process. The images below show the USB-C version, but it works the same for the mkII USB-A version.
 :::
 
 <Button variant='contained' href='https://github.com/SpacehuhnTech/USBNova/releases'>Download Firmware</Button>

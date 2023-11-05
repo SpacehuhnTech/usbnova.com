@@ -66,7 +66,7 @@ const config = {
             label: 'Docs',
           },
           {
-            href: 'https://spacehuhn.store/products/usb-nova',
+            href: 'https://spacehuhn.store/collections/usb-nova',
             label: 'Buy',
             position: 'left',
           },
